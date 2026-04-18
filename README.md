@@ -105,13 +105,17 @@ g++ -std=c++98 Code_with_menu_for_4_games_without_GUI.cpp -o games
 1. Launch the console application
 2. Enter player name when prompted
 3. Select game mode:
+  ```
   1: Pyramid Tic-Tac-Toe
   2: Connect Four
   3: 5x5 Tic-Tac-Toe
   4: Classic 3x3 Tic-Tac-Toe
+  ```
 4. Choose opponent type:
+  ```
   0: Two-player local mode
   1: Play against random AI
+  ```
 5. Enter moves as row and column coordinates separated by spaces
 6. Follow on-screen prompts until game conclusion
 
