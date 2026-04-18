@@ -122,10 +122,10 @@ g++ -std=c++98 Code_with_menu_for_4_games_without_GUI.cpp -o games
 ## Contributing
 
 - Contributions are welcome. Suggested improvements:
--- Implement smarter AI using minimax or heuristic evaluation
--- Add network multiplayer support
--- Enhance console UI with color output or ASCII art
--- Port GUI versions to cross-platform frameworks
+  - Implement smarter AI using minimax or heuristic evaluation
+  - Add network multiplayer support
+  - Enhance console UI with color output or ASCII art
+  - Port GUI versions to cross-platform frameworks
 
 ## License
 
